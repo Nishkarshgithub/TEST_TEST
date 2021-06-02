@@ -6,11 +6,11 @@
 		</header>
 		<body>
 			<trans-unit id="shop">
-				<source>newoneone</source>
+				<source>new</source>
 				<target>nouveau</target>
 			</trans-unit>
 			<trans-unit id="calendar">
-				<source>Somethingthing</source>
+				<source>Something</source>
 				<target>quelque chose</target>
 			</trans-unit>
 		</body>
